@@ -18,15 +18,17 @@ export default function Dapp() {
         setIsSidebarOpen(!isSidebarOpen);
         console.log(isSidebarOpen)
       };
-    
-    const closeSidebar = () => {
+
+      const closeSidebar = () => {
         setIsSidebarOpen(false);
       };
     
-    const handleSidebarButtonClick = (tabItem) => {
+      const handleSidebarButtonClick = (tabItem) => {
         setSelectedTab(tabItem)
         closeSidebar();
       };
+    
+
 
 
     let divStyle1 = (selectedTab === "staking") ? "bg-[#282828] text-white" : "text-gray-400"
