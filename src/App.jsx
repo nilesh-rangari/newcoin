@@ -2,15 +2,13 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 import './App.css'
-// import Dapp from './pages/Dapp'
-import Reference from './pages/Reference'
+import Dapp from './pages/Dapp'
 
 function App() {
 
   return (
     <>
-      {/* <Dapp /> */}
-      <Reference/>
+      <Dapp />
     </>
   )
 }
