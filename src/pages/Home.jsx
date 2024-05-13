@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 import Logo from '../assets/cip-pro-small.png'
 import HeroBg from '../assets/hero.png'
 
@@ -50,10 +52,12 @@ export default function Home(){
                     </div>
                     </div>
                     <div className="flex items-center gap-3 ">
+                        <Link to="/Dapp">
                         <a className="inline-block primary-button py-3 px-9 rounded bg-[linear-gradient(131deg,rgba(77,175,251,1),rgba(50,122,178,1)_50%,rgba(77,175,251,1))]" 
-                        target="_blank" href="https://dapp.cippro.io/">
+                        target="_blank" href="">
                             Launch DApp
                         </a>
+                        </Link>
                     <div className="cursor-pointer text-3xl lg:hidden">
                         <svg stroke="currentColor" fill="none" strokeWidth="2" viewBox="0 0 24 24" 
                             strokeLinecap="round" strokeLinejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
