@@ -172,35 +172,35 @@
                 <img alt="Roadmap Background" loading="lazy" decoding="async" data-nimg="fill" className="-z-10" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:bottom;color:transparent" src="/images/bg/roadmap.png">
             </div> */}
 
-  {/* 4 four 
-  <section className="min-h-[414px] md:min-h-[768px] relative">
-    <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
-      <div className="flex items-center justify-center flex-col text-center py-10 pt-24 relative z-10">
-        <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5 text-center">Tokenomics</h2>
-        <div className="text-sm opacity-75 sm:text-base lg:text-xl py-3 px-7 lg:py-4 lg:px-10 border border-neutral-600 rounded-xl font-semibold bg-gradient-to-b to-[#9146001A] text-[#FF8F14] from-[#DD6E0745]">Total Supply of token 10 million</div>
-        <div className="w-full">
-          <div className="relative aspect-[5/4.75] w-full mx-auto" style="transform: scale(0.25) translateZ(0px);">
-            <img alt="Tokenomics Chart" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/tokenomics.png">
-          </div>
-        </div>
-      </div>
-    </div>
-    <div className="absolute left-0 top-[125px] z-0">
-      <div className="aspect-[1/3] h-[500px] relative">
-        <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/tokenomics-object.png">
-      </div>
-    </div>
-    <div className="absolute sm:left-[8%] top-[15%] z-0">
-      <div className="relative w-8 sm:w-14 aspect-square">
-        <img alt="Star Icon" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/icons/star.svg">
-      </div>
-    </div>
-    <div className="absolute -right-[350px] -top-[250px] z-0">
-      <div className="w-[800px] h-[800px] relative">
-        <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/shadow.svg">
-      </div>
-    </div>
-  </section>
+            {/* 4 four 
+            <section className="min-h-[414px] md:min-h-[768px] relative">
+              <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
+                <div className="flex items-center justify-center flex-col text-center py-10 pt-24 relative z-10">
+                  <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5 text-center">Tokenomics</h2>
+                  <div className="text-sm opacity-75 sm:text-base lg:text-xl py-3 px-7 lg:py-4 lg:px-10 border border-neutral-600 rounded-xl font-semibold bg-gradient-to-b to-[#9146001A] text-[#FF8F14] from-[#DD6E0745]">Total Supply of token 10 million</div>
+                  <div className="w-full">
+                    <div className="relative aspect-[5/4.75] w-full mx-auto" style="transform: scale(0.25) translateZ(0px);">
+                      <img alt="Tokenomics Chart" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/tokenomics.png">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute left-0 top-[125px] z-0">
+                <div className="aspect-[1/3] h-[500px] relative">
+                  <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/tokenomics-object.png">
+                </div>
+              </div>
+              <div className="absolute sm:left-[8%] top-[15%] z-0">
+                <div className="relative w-8 sm:w-14 aspect-square">
+                  <img alt="Star Icon" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/icons/star.svg">
+                </div>
+              </div>
+              <div className="absolute -right-[350px] -top-[250px] z-0">
+                <div className="w-[800px] h-[800px] relative">
+                  <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/shadow.svg">
+                </div>
+              </div>
+            </section>
 
   5 four 
   <section className="min-h-[414px] md:min-h-[768px] relative" id="section_upcoming">
