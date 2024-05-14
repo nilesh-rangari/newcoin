@@ -36,18 +36,39 @@ import thinStar from '../assets/thin-star.svg'
 import arrowDown from '../assets/arrow-down.svg'
 import phone from '../assets/phone.svg'
 import mail from '../assets/mail.svg'
+import { useEffect, useState } from 'react';
 
 
 
 
 
 export default function Home(){
+    const [scrollNav, setScrollNav] = useState(false);
+
+    useEffect(() => {
+        const handleScroll = () => {
+        if (window.scrollY >= 80) {
+            setScrollNav(true);
+        } else {
+            setScrollNav(false);
+        }
+        };
+
+        window.addEventListener('scroll', handleScroll);
+
+        // Clean up the event listener when component unmounts
+        return () => {
+        window.removeEventListener('scroll', handleScroll);
+        };
+    }, []);
+
+
     return(
         <div className="bg-dark max-w-[1920px] mx-auto overflow-x-hidden">
             
             {/* navbar */}
 
-            <header className="fixed top-0 left-0 right-0 z-50 ">
+            <header className={`fixed top-0 left-0 right-0 z-50  ${scrollNav ? 'bg-[#081429]' : 'bg-transparent'}`}>
                 <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
                 <nav className="flex justify-between items-center pb-5 pt-6">
                     <div className="flex items-center gap-20">
