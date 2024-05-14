@@ -202,7 +202,7 @@
               </div>
             </section>
 
-  5 four 
+        5 four 
             <section className="min-h-[414px] md:min-h-[768px] relative" id="section_upcoming">
               <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
                 <div className="flex items-center justify-center flex-col text-center py-10 pt-24 relative z-10">
@@ -278,32 +278,32 @@
               </div>
             </section>
 
-  6 six 
-  <section className="min-h-[414px] md:min-h-[768px] relative">
-    <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
-      <div className="flex items-center justify-center flex-col text-center py-10 pt-24 relative z-10">
-        <p className="text-sm text-[#EA9444] mb-4">Discounted Crpyto</p>
-        <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5 text-center">Rule of Seven</h2>
-        <p className="mt-1 text-sm text-neutral-400 max-w-[33ch]">Compounding Profit and Capital followed by Seven Rules of Buying Assets to support Liquidity.</p>
-        <div className="text-start my-20 grid grid-cols-1 lg:grid-cols-2 items-center gap-16 lg:gap-8">
-          <div style="perspective:300px" className="row-start-1 lg:row-start-auto ">
-            <div className="relative aspect-square  rounded-3xl max-w-[35rem] lg:max-w-none mx-auto" style="transform: rotateY(-25deg) translateZ(0px);">
-              <img alt="Seven Shape" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/seven.png">
-            </div>
-          </div>
-          <div className="text-start rounded-lg bg-[#6A6A6A1A] p-4 sm:p-6 lg:p-12 lg:pb-20 shadow-2xl">
-            <p className="text-sm text-neutral-300 leading-6">Have you heard of the rule of Seven strategy in trading? It&amp;apo;s a simple but effective strategy that can turn $10,000 into $1.28 million. You you. Here&amp;apo;s how it works. Find seven coins one at a time to invest in. For example, if you invest $10,000 in polka dot and the price doubles, your amount will be $20,000. Then find another coin and put $20,000 in that coin to get double. Continue this process for seven coins without taking your principal and profit thousands of coins double in crypto during every bull run. All you need to do is find seven coins in year to turn your $10,000 into $1.28 million. Crypto Index Pool Pro is using this strategy to increase liquidity in pools. You can also follow this strategy with your portfolio to&nbsp;make&nbsp;big&nbsp;money.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div className="absolute left-[50%] top-[50%] -translate-x-1/3 -translate-y-1/4">
-      <div className="w-[800px] h-[800px] relative z-0">
-        <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/shadow.svg">
-      </div>
-    </div>
-    <div className="absolute w-full left-0 top-1/2"></div>
-  </section>
+          6 six 
+            <section className="min-h-[414px] md:min-h-[768px] relative">
+              <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
+                <div className="flex items-center justify-center flex-col text-center py-10 pt-24 relative z-10">
+                  <p className="text-sm text-[#EA9444] mb-4">Discounted Crpyto</p>
+                  <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5 text-center">Rule of Seven</h2>
+                  <p className="mt-1 text-sm text-neutral-400 max-w-[33ch]">Compounding Profit and Capital followed by Seven Rules of Buying Assets to support Liquidity.</p>
+                  <div className="text-start my-20 grid grid-cols-1 lg:grid-cols-2 items-center gap-16 lg:gap-8">
+                    <div style="perspective:300px" className="row-start-1 lg:row-start-auto ">
+                      <div className="relative aspect-square  rounded-3xl max-w-[35rem] lg:max-w-none mx-auto" style="transform: rotateY(-25deg) translateZ(0px);">
+                        <img alt="Seven Shape" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/seven.png">
+                      </div>
+                    </div>
+                    <div className="text-start rounded-lg bg-[#6A6A6A1A] p-4 sm:p-6 lg:p-12 lg:pb-20 shadow-2xl">
+                      <p className="text-sm text-neutral-300 leading-6">Have you heard of the rule of Seven strategy in trading? It&amp;apo;s a simple but effective strategy that can turn $10,000 into $1.28 million. You you. Here&amp;apo;s how it works. Find seven coins one at a time to invest in. For example, if you invest $10,000 in polka dot and the price doubles, your amount will be $20,000. Then find another coin and put $20,000 in that coin to get double. Continue this process for seven coins without taking your principal and profit thousands of coins double in crypto during every bull run. All you need to do is find seven coins in year to turn your $10,000 into $1.28 million. Crypto Index Pool Pro is using this strategy to increase liquidity in pools. You can also follow this strategy with your portfolio to&nbsp;make&nbsp;big&nbsp;money.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute left-[50%] top-[50%] -translate-x-1/3 -translate-y-1/4">
+                <div className="w-[800px] h-[800px] relative z-0">
+                  <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/shadow.svg">
+                </div>
+              </div>
+              <div className="absolute w-full left-0 top-1/2"></div>
+            </section>
 
   7 seven  */}
 </div>
@@ -311,134 +311,137 @@
 
 // ####################################################################
 
-{/* <header className="fixed top-0 left-0 right-0 z-50 ">
-  <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
-    <nav className="flex justify-between items-center pb-5 pt-6">
-      <div className="flex items-center gap-20">
-        <div className="relative h-10 aspect-[2/1]">
-          <img alt="Logo" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/logos/cip-pro-small.png">
-        </div>
-        <div className="lg:flex hidden gap-12 text-m text-neutral-300">
-          <a className="font-medium" href="#section_home">Home</a>
-          <a className="font-medium" href="#section_aboutus">About Us</a>
-          <a className="font-medium" href="#section_roadmap">Roadmap</a>
-          <a className="font-medium" href="#section_upcoming">Upcoming</a>
-          <a className="font-medium" href="#section_liquidity">Liquidity</a>
-          <a className="font-medium" href="#section_faqs">FAQs</a>
-        </div>
-      </div>
-      <div className="flex items-center gap-3">
-        <a className="inline-block primary-button" target="_blank" href="https://dapp.cippro.io/">Launch DApp</a>
-        <div className="cursor-pointer text-3xl lg:hidden">
-          <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-            <line x1="3" y1="12" x2="21" y2="12"></line>
-            <line x1="3" y1="6" x2="21" y2="6"></line>
-            <line x1="3" y1="18" x2="21" y2="18"></line>
-          </svg>
-        </div>
-      </div>
-    </nav>
-    <hr className="border-none h-[1px] bg-gradient-to-r from-[#16161600] via-[#69696988] to-[#16161600]">
-  </div>
-</header>
-<div className="relative">
-  <div className="reveal-wrapper w-full relative">
-    <div className="undefined w-full" style="opacity:0;transform:scale(1.15) translateZ(0)">
-      <section className="min-h-screen flex items-center justify-center flex-col text-center py-10 pt-24" id="section_home">
-        <h1 className="text-4xl sm:text-6xl lg:text-[5.25rem] 2xl:text-[7.5rem] leading-none font-bold w-[12ch] max-w-[90%]">Put Your Money On Work</h1>
-        <p className="text-sm text-neutral-400 my-4 md:my-10 w-[75%] md:w-[54ch]">Unleash the power of AI within . Upgrade your productivity with, unlock the potential of AI powered application open AI chat app.</p>
-        <div className="flex flex-col mt-5 md:mt-0 items-center md:flex-row gap-5">
-          <a className="inline-block rounded bg-gradient-to-r primary-button  font-medium text-white  focus:outline-none " href="/">Get Connected</a>
-        </div>
-      </section>
-    </div>
-    <div className="absolute top-1/2 left-0 w-full  pointer-events-none"></div>
-    <div className="absolute inset-0 pointer-events-none"></div>
-  </div>
-  <section className="min-h-[768px] flex items-center overflow-hidden relative" id="section_aboutus">
-    <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
-      <div className="grid grid-cols-1 lg:grid-cols-2 items-center gap-20 mx-auto">
-        <div className="reveal-wrapper ">
-          <div style="opacity:0;transform:translateX(-100%) scale(0.75) translateZ(0)">
-            <h3 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-5 text-center lg:text-start">What is Crypto Index Pool Pro?</h3>
-            <div>
-              <article className="rounded-xl">
-                <div className="flex items-start gap-4 py-4">
-                  <div className="shrink-0">
-                    <div className="w-10 h-10 relative">
-                      <img alt="Message Icon" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/icons/message.svg">
-                    </div>
-                  </div>
-                  <div>
-                    <p className="text-sm md:text-base">Crypto Index Pool Pro is a simplified and secure participation in Staking, generating yield by interacting the Smart contract mechanism.</p>
-                  </div>
-                </div>
-                <div className="flex items-start gap-4 py-4">
-                  <div className="shrink-0">
-                    <div className="w-10 h-10 relative">
-                      <img alt="Message Icon" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/icons/msg-orange.svg">
-                    </div>
-                  </div>
-                  <div>
-                    <p className="text-sm md:text-base">CIP Pro token has made a stealth launch on the most advance chain in the crypto which is ARBITRUM.</p>
-                  </div>
-                </div>
-                <div className="flex items-start gap-4 py-4">
-                  <div className="shrink-0">
-                    <div className="w-10 h-10 relative">
-                      <img alt="Message Icon" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/icons/msg-purple.svg">
-                    </div>
-                  </div>
-                  <div>
-                    <p className="text-sm md:text-base">Expanding the community by P2P networking with a mission to create a Giant space in the Blockchain Industry.</p>
-                  </div>
-                </div>
-              </article>
-            </div>
-          </div>
-          <div className="absolute w-full left-0 top-1/2"></div>
-          <div className="absolute inset-0 w-full h-full"></div>
-        </div>
-        <div className="row-start-1 lg:row-start-auto">
-          <div className="reveal-wrapper ">
-            <div style="opacity:0;transform:translateX(100%) scale(0.75) translateZ(0)">
-              <div className="relative aspect-square rounded-3xl max-w-[35rem] lg:max-w-none mx-auto">
-                <img alt="About Arbitrum Figure" loading="lazy" decoding="async" data-nimg="fill" className=" rounded-3xl" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;color:transparent" src="/images/about-cip.png">
-              </div>
-            </div>
-            <div className="absolute w-full left-0 top-1/2"></div>
-            <div className="absolute inset-0 w-full h-full"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <img alt="Hero Background" loading="lazy" decoding="async" data-nimg="fill" className="-z-10" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;object-position:top;color:transparent" src="/images/bg/hero.png">
-</div>
-<div className="relative py-20">
-  <div className="reveal-wrapper w-full relative">
-    <div className="undefined w-full" style="opacity:0;transform:scale(1.15) translateZ(0)">
-      <div className="flex items-center justify-center gap-7 sm:gap-24 ">
-        <div>
-          <h3 className="bg-gradient-to-r from-[#5C27FE] to-[#DEC7FF] font-gotham bg-clip-text text-4xl xs:text-6xl font-extrabold text-transparent sm:text-7xl md:text-8xl tracking-wide text-center">24/7</h3>
-          <p className="text-neutral-300 uppercase text-sm font-medium text-center mt-5">active accounts</p>
-        </div>
-        <div>
-          <h3 className="bg-gradient-to-r from-[#5C27FE] to-[#DEC7FF] font-gotham bg-clip-text text-4xl xs:text-6xl font-extrabold text-transparent sm:text-7xl md:text-8xl tracking-wide text-center">365</h3>
-          <p className="text-neutral-300 uppercase text-sm font-medium text-center mt-5">days</p>
-        </div>
-      </div>
-    </div>
-    <div className="absolute top-1/2 left-0 w-full  pointer-events-none"></div>
-    <div className="absolute inset-0 pointer-events-none"></div>
-  </div>
-  <div className="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2">
-    <div className="w-[800px] h-[800px] relative z-0 max-w-[90vw]">
-      <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/shadow.svg">
-    </div>
-  </div>
-</div>
-<div className="overflow-hidden">
+//  <header className="fixed top-0 left-0 right-0 z-50 ">
+//   <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
+//     <nav className="flex justify-between items-center pb-5 pt-6">
+//       <div className="flex items-center gap-20">
+//         <div className="relative h-10 aspect-[2/1]">
+//           <img alt="Logo" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/logos/cip-pro-small.png">
+//         </div>
+//         <div className="lg:flex hidden gap-12 text-m text-neutral-300">
+//           <a className="font-medium" href="#section_home">Home</a>
+//           <a className="font-medium" href="#section_aboutus">About Us</a>
+//           <a className="font-medium" href="#section_roadmap">Roadmap</a>
+//           <a className="font-medium" href="#section_upcoming">Upcoming</a>
+//           <a className="font-medium" href="#section_liquidity">Liquidity</a>
+//           <a className="font-medium" href="#section_faqs">FAQs</a>
+//         </div>
+//       </div>
+//       <div className="flex items-center gap-3">
+//         <a className="inline-block primary-button" target="_blank" href="https://dapp.cippro.io/">Launch DApp</a>
+//         <div className="cursor-pointer text-3xl lg:hidden">
+//           <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+//             <line x1="3" y1="12" x2="21" y2="12"></line>
+//             <line x1="3" y1="6" x2="21" y2="6"></line>
+//             <line x1="3" y1="18" x2="21" y2="18"></line>
+//           </svg>
+//         </div>
+//       </div>
+//     </nav>
+//     <hr className="border-none h-[1px] bg-gradient-to-r from-[#16161600] via-[#69696988] to-[#16161600]">
+//   </div>
+// </header>
+// <div className="relative">
+//   <div className="reveal-wrapper w-full relative">
+//     <div className="undefined w-full" style="opacity:0;transform:scale(1.15) translateZ(0)">
+//       <section className="min-h-screen flex items-center justify-center flex-col text-center py-10 pt-24" id="section_home">
+//         <h1 className="text-4xl sm:text-6xl lg:text-[5.25rem] 2xl:text-[7.5rem] leading-none font-bold w-[12ch] max-w-[90%]">Put Your Money On Work</h1>
+//         <p className="text-sm text-neutral-400 my-4 md:my-10 w-[75%] md:w-[54ch]">Unleash the power of AI within . Upgrade your productivity with, unlock the potential of AI powered application open AI chat app.</p>
+//         <div className="flex flex-col mt-5 md:mt-0 items-center md:flex-row gap-5">
+//           <a className="inline-block rounded bg-gradient-to-r primary-button  font-medium text-white  focus:outline-none " href="/">Get Connected</a>
+//         </div>
+//       </section>
+//     </div>
+//     <div className="absolute top-1/2 left-0 w-full  pointer-events-none"></div>
+//     <div className="absolute inset-0 pointer-events-none"></div>
+//   </div>
+//   <section className="min-h-[768px] flex items-center overflow-hidden relative" id="section_aboutus">
+//     <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
+//       <div className="grid grid-cols-1 lg:grid-cols-2 items-center gap-20 mx-auto">
+//         <div className="reveal-wrapper ">
+//           <div style="opacity:0;transform:translateX(-100%) scale(0.75) translateZ(0)">
+//             <h3 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-5 text-center lg:text-start">What is Crypto Index Pool Pro?</h3>
+//             <div>
+//               <article className="rounded-xl">
+//                 <div className="flex items-start gap-4 py-4">
+//                   <div className="shrink-0">
+//                     <div className="w-10 h-10 relative">
+//                       <img alt="Message Icon" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/icons/message.svg">
+//                     </div>
+//                   </div>
+//                   <div>
+//                     <p className="text-sm md:text-base">Crypto Index Pool Pro is a simplified and secure participation in Staking, generating yield by interacting the Smart contract mechanism.</p>
+//                   </div>
+//                 </div>
+//                 <div className="flex items-start gap-4 py-4">
+//                   <div className="shrink-0">
+//                     <div className="w-10 h-10 relative">
+//                       <img alt="Message Icon" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/icons/msg-orange.svg">
+//                     </div>
+//                   </div>
+//                   <div>
+//                     <p className="text-sm md:text-base">CIP Pro token has made a stealth launch on the most advance chain in the crypto which is ARBITRUM.</p>
+//                   </div>
+//                 </div>
+//                 <div className="flex items-start gap-4 py-4">
+//                   <div className="shrink-0">
+//                     <div className="w-10 h-10 relative">
+//                       <img alt="Message Icon" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/icons/msg-purple.svg">
+//                     </div>
+//                   </div>
+//                   <div>
+//                     <p className="text-sm md:text-base">Expanding the community by P2P networking with a mission to create a Giant space in the Blockchain Industry.</p>
+//                   </div>
+//                 </div>
+//               </article>
+//             </div>
+//           </div>
+//           <div className="absolute w-full left-0 top-1/2"></div>
+//           <div className="absolute inset-0 w-full h-full"></div>
+//         </div>
+//         <div className="row-start-1 lg:row-start-auto">
+//           <div className="reveal-wrapper ">
+//             <div style="opacity:0;transform:translateX(100%) scale(0.75) translateZ(0)">
+//               <div className="relative aspect-square rounded-3xl max-w-[35rem] lg:max-w-none mx-auto">
+//                 <img alt="About Arbitrum Figure" loading="lazy" decoding="async" data-nimg="fill" className=" rounded-3xl" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;color:transparent" src="/images/about-cip.png">
+//               </div>
+//             </div>
+//             <div className="absolute w-full left-0 top-1/2"></div>
+//             <div className="absolute inset-0 w-full h-full"></div>
+//           </div>
+//         </div>
+//       </div>
+//     </div>
+//   </section>
+//   <img alt="Hero Background" loading="lazy" decoding="async" data-nimg="fill" className="-z-10" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;object-position:top;color:transparent" src="/images/bg/hero.png">
+// </div>
+// <div className="relative py-20">
+//   <div className="reveal-wrapper w-full relative">
+//     <div className="undefined w-full" style="opacity:0;transform:scale(1.15) translateZ(0)">
+//       <div className="flex items-center justify-center gap-7 sm:gap-24 ">
+//         <div>
+//           <h3 className="bg-gradient-to-r from-[#5C27FE] to-[#DEC7FF] font-gotham bg-clip-text text-4xl xs:text-6xl font-extrabold text-transparent sm:text-7xl md:text-8xl tracking-wide text-center">24/7</h3>
+//           <p className="text-neutral-300 uppercase text-sm font-medium text-center mt-5">active accounts</p>
+//         </div>
+//         <div>
+//           <h3 className="bg-gradient-to-r from-[#5C27FE] to-[#DEC7FF] font-gotham bg-clip-text text-4xl xs:text-6xl font-extrabold text-transparent sm:text-7xl md:text-8xl tracking-wide text-center">365</h3>
+//           <p className="text-neutral-300 uppercase text-sm font-medium text-center mt-5">days</p>
+//         </div>
+//       </div>
+//     </div>
+//     <div className="absolute top-1/2 left-0 w-full  pointer-events-none"></div>
+//     <div className="absolute inset-0 pointer-events-none"></div>
+//   </div>
+//   <div className="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2">
+//     <div className="w-[800px] h-[800px] relative z-0 max-w-[90vw]">
+//       <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/shadow.svg">
+//     </div>
+//   </div>
+// </div>
+
+// $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$4
+
+{/* <div className="overflow-hidden">
   <section className="min-h-[768px] flex items-center py-10 relative">
     <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
       <h1 className="text-center text-2xl sm:text-3xl md:text-4xl font-bold pb-16">Why Buy CIP Pro?</h1>
@@ -727,297 +730,298 @@
       </div>
     </div>
     <div className="absolute w-full left-0 top-1/2"></div>
-  </section>
-  <section className="min-h-[768px] flex items-center relative pt-10" id="section_liquidity">
-    <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
-      <div className="grid grid-cols-1 lg:grid-cols-2 items-center gap-16 lg:gap-8 w-full">
-        <div className="reveal-wrapper ">
-          <div style="opacity:0;transform:translateX(-100%) scale(0.75) translateZ(0)">
-            <p className="text-sm text-[#C792FF] mb-4">Discounted Crpyto</p>
-            <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5">CIP Pro Auto Liquidity Generation</h2>
-            <p className="mt-1 text-sm text-neutral-400">Crypto Index Pool Pro has implanted a dynamic concept of Generating liquidity, unique Idea and research-based concept with a great autonomous working model will be associated with the running smart contract, These multiple supporting protocols will be running in the crypto space initializing the concept and earn fees by interacting with the community. Protocol like "DISCOUNT CRYPTO will attracts the community by its unique working model, this concept will be only available for the CIP Pro community, community must fulfil the requirement of the CIP Pro protocol instructions to enjoy the benefit of Discounted crypto. The binding contemplation of Crypto Index Pool Pro ecosystem will lead to the stability for the better future of investors. <br>
-              <br>As crypto industry has always been building the new innovations and bringing updations in the running concepts, there is always a need of an endless requirements for the multiple tools in the decentralized industry. It has always been a challenge for the centralization governance to integrate with decentralized governance, the decentralized nature and building the products anonymously is the beauty of this Industry, as we have seen the rise of decentralized finance in the previous years, this has taken blockchain innovations to another era. <br>
-              <br>Things like Decentralized Email DNS service &amp; IFPS is supporting web3 which has changed the traditional system of web.
-            </p>
-          </div>
-          <div className="absolute w-full left-0 top-1/2"></div>
-          <div className="absolute inset-0 w-full h-full"></div>
-        </div>
-        <div className="row-start-1 lg:row-start-auto ">
-          <div className="reveal-wrapper ">
-            <div style="opacity:0;transform:translateX(100%) scale(0.75) translateZ(0)">
-              <div className="relative aspect-square mx-auto">
-                <img alt="About Arbitrum Figure" loading="lazy" decoding="async" data-nimg="fill" className="p-0.5 rounded-3xl" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/auto-liquidity-1.png">
-              </div>
-            </div>
-            <div className="absolute w-full left-0 top-1/2"></div>
-            <div className="absolute inset-0 w-full h-full"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div className="absolute left-0 top-[25%]">
-      <div className="w-[400px] h-[800px] relative z-0 max-w-[90vw]">
-        <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/auto-liquidity-object-1.png">
-      </div>
-    </div>
-    <div className="absolute bottom-0 right-[10%] -translate-x-1/2">
-      <img alt="Star Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" style="color:transparent" src="/icons/star.svg">
-    </div>
-  </section>
-  <section className="min-h-[768px] flex items-center relative pb-10">
-    <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
-      <div className="grid grid-cols-1 lg:grid-cols-2 items-center gap-16 lg:gap-8 w-full">
-        <div className="row-start-1 lg:row-start-auto ">
-          <div className="reveal-wrapper ">
-            <div style="opacity:0;transform:translateX(-100%) scale(0.75) translateZ(0)">
-              <div className="relative aspect-square mx-auto">
-                <img alt="About Arbitrum Figure" loading="lazy" decoding="async" data-nimg="fill" className="p-0.5 rounded-3xl" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/auto-liquidity-2.png">
-              </div>
-            </div>
-            <div className="absolute w-full left-0 top-1/2"></div>
-            <div className="absolute inset-0 w-full h-full"></div>
-          </div>
-        </div>
-        <div className="reveal-wrapper ">
-          <div style="opacity:0;transform:translateX(100%) scale(0.75) translateZ(0)">
-            <p className="text-sm text-[#3EFF8B] mb-4">Multichain bridge</p>
-            <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5">CIP Pro Auto Liquidity <br> Generation </h2>
-            <p className="mt-1 text-sm text-neutral-400">After "Discounted Crypto" we are launching the multichain bridge for the community which will a great tool to transfer assets from multichain to one chain, A multichain bridge is a technology that allows users to transfer assets or data between different blockchains. There are different types of multichain bridges, such as cross-chain bridges and cross-chain routers. Cross-chain bridges lock the original asset in a secure address and mint a wrapped asset on the destination chain. <br>
-              <br>Cross-chain routers allow users to swap between any two chains directly without wrapping. This product will be also generating fees by the transactions volume which will support the CIP Pro liquidity ponderation to the protocol
-            </p>
-          </div>
-          <div className="absolute w-full left-0 top-1/2"></div>
-          <div className="absolute inset-0 w-full h-full"></div>
-        </div>
-      </div>
-    </div>
-    <div className="absolute right-0 top-[30%]">
-      <div className="w-[400px] h-[800px] relative z-0 max-w-[90vw] translate-x-1/2">
-        <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/auto-liquidity-object-2.png">
-      </div>
-    </div>
-  </section>
-  <section className="min-h-[414px] md:min-h-[768px] relative">
-    <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
-      <div className="flex items-center justify-center flex-col text-center py-10 pt-24 relative z-10">
-        <p className="text-sm md:w-[46ch] mb-3">On Global Pool ROI</p>
-        <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-center">Universal <span className="text-[#CD3AFF]">Pools</span> Income </h2>
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-5 mt-10 lg:mt-20" style="opacity:0;transform:scale(0.75) translateZ(0)">
-          <div>
-            <div className="rounded-[0.6rem] text-start" style="perspective:300px;background:#FFFFFF88;transform:scale(.85) translateY(5%);transform-origin:top right">
-              <div className="packageCard h-full text-sm sm:text-base transition duration-300 bg-[#24202d] p-5 md:p-8 rounded-[0.5rem]">
-                <img alt="Diamond Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" style="color:transparent" src="/icons/diamond.svg">
-                <h3 className="text-[1.75em] font-semibold py-5">Kohinoor</h3>
-                <div style="background:linear-gradient(90deg, #12B879, #037B42)" className="mt-3 p-5 rounded-md">
-                  <h4 className="text-[1em] font-semibold mb-1 uppercase">Condition</h4>
-                  <p className="text-[.75em] leading-5">User must be MARS &amp; 3 VENUS referrals in 3 LEGS</p>
-                </div>
-                <div className="pt-5 pb-3 uppercase font-medium text-[1em]">Reward</div>
-                <div style="color:#3DE0A2" className="text-[2.5em] mt-1 font-semibold">6
-                  <!-- -->%
-                </div>
-              </div>
-            </div>
-          </div>
-          <div>
-            <div className="rounded-[0.6rem] text-start" style="perspective:300px;background:#FFFFFF88;transform-origin:top right">
-              <div className="packageCard h-full text-sm sm:text-base transition duration-300 bg-[#24202d] p-5 md:p-8 rounded-[0.5rem]">
-                <img alt="Diamond Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" style="color:transparent" src="/icons/cup.svg">
-                <h3 className="text-[1.75em] font-semibold py-5">Gold Plan</h3>
-                <div style="background:linear-gradient(90deg, #FEB54A99, #FF3A6899)" className="mt-3 p-5 rounded-md">
-                  <h4 className="text-[1em] font-semibold mb-1 uppercase">Condition</h4>
-                  <p className="text-[.75em] leading-5">User must be MARS &amp; 3 VENUS referrals in 3 LEGS</p>
-                </div>
-                <div className="pt-5 pb-3 uppercase font-medium text-[1em]">Reward</div>
-                <div style="color:#FD7F08" className="text-[2.5em] mt-1 font-semibold">10
-                  <!-- -->%
-                </div>
-              </div>
-            </div>
-          </div>
-          <div>
-            <div className="rounded-[0.6rem] text-start" style="perspective:300px;background:#FFFFFF88;transform-origin:top right">
-              <div className="packageCard h-full text-sm sm:text-base transition duration-300 bg-[#24202d] p-5 md:p-8 rounded-[0.5rem]">
-                <img alt="Diamond Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" style="color:transparent" src="/icons/diamond.svg">
-                <h3 className="text-[1.75em] font-semibold py-5">Diamond</h3>
-                <div style="background:linear-gradient(90deg, #DB70FF99, #76009F99)" className="mt-3 p-5 rounded-md">
-                  <h4 className="text-[1em] font-semibold mb-1 uppercase">Condition</h4>
-                  <p className="text-[.75em] leading-5">User must be MARS &amp; 3 VENUS referrals in 3 LEGS</p>
-                </div>
-                <div className="pt-5 pb-3 uppercase font-medium text-[1em]">Reward</div>
-                <div style="color:#CD3AFF" className="text-[2.5em] mt-1 font-semibold">8
-                  <!-- -->%
-                </div>
-              </div>
-            </div>
-          </div>
-          <div>
-            <div className="rounded-[0.6rem] text-start" style="perspective:300px;background:#FFFFFF88;transform:scale(.85) translateY(5%);transform-origin:top left">
-              <div className="packageCard h-full text-sm sm:text-base transition duration-300 bg-[#24202d] p-5 md:p-8 rounded-[0.5rem]">
-                <img alt="Diamond Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" style="color:transparent" src="/icons/silver-star.svg">
-                <h3 className="text-[1.75em] font-semibold py-5">Platinum</h3>
-                <div style="background:linear-gradient(90deg, #54C0FF99, #12619699)" className="mt-3 p-5 rounded-md">
-                  <h4 className="text-[1em] font-semibold mb-1 uppercase">Condition</h4>
-                  <p className="text-[.75em] leading-5">User must be MARS &amp; 3 VENUS referrals in 3 LEGS</p>
-                </div>
-                <div className="pt-5 pb-3 uppercase font-medium text-[1em]">Reward</div>
-                <div style="color:#00A0FE" className="text-[2.5em] mt-1 font-semibold">8
-                  <!-- -->%
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div className="absolute -left-[500px] -top-[100px]">
-      <div className="w-[800px] h-[800px] relative z-0">
-        <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/shadow2.svg">
-      </div>
-    </div>
-  </section>
-  <section className="py-20 relative" id="section_faqs">
-    <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
-      <div className="text-center flex flex-col items-center justify-center relative z-10">
-        <h2 className="text-2xl sm:text-3xl md:text-5xl font-bold mb-5 inline-block relative">Frequently Asked Questions <div className="absolute -top-1/4 right-0 translate-x-[200%] hidden md:block">
-            <img alt="Star Icon" loading="lazy" width="35" height="35" decoding="async" data-nimg="1" style="color:transparent" src="/icons/thin-star.svg">
-          </div>
-        </h2>
-        <p className="text-sm md:text-lg font-thin text-neutral-400 md:w-[46ch]">Dalma is the only saas business platform that lets you run your business on one platform, seamlessly across all digital channels.</p>
-        <div className="space-y-4 text-start w-full lg:w-[65%] my-20">
-          <div className="rounded-[0.6rem]" style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)">
-            <details className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
-              <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
-                <h2 className="font-medium">What is DAPP?</h2>
-                <img alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" className="shrink-0 transition duration-300 group-open:-rotate-180" style="color:transparent" src="/icons/arrow-down.svg">
-              </summary>
-              <p className="pt-3 leading-relaxed text-neutral-400">Orders are usually shipped within 1-2 business days after placing the order.</p>
-            </details>
-          </div>
-          <div className="rounded-[0.6rem]" style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)">
-            <details className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
-              <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
-                <h2 className="font-medium">How do they Work?</h2>
-                <img alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" className="shrink-0 transition duration-300 group-open:-rotate-180" style="color:transparent" src="/icons/arrow-down.svg">
-              </summary>
-              <p className="pt-3 leading-relaxed text-neutral-400">Orders are usually shipped within 1-2 business days after placing the order.</p>
-            </details>
-          </div>
-          <div className="rounded-[0.6rem]" style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)">
-            <details className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
-              <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
-                <h2 className="font-medium">What are the benefits of DAPP?</h2>
-                <img alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" className="shrink-0 transition duration-300 group-open:-rotate-180" style="color:transparent" src="/icons/arrow-down.svg">
-              </summary>
-              <p className="pt-3 leading-relaxed text-neutral-400">Orders are usually shipped within 1-2 business days after placing the order.</p>
-            </details>
-          </div>
-          <div className="rounded-[0.6rem]" style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)">
-            <details className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
-              <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
-                <h2 className="font-medium">What are the Features of DAPP?</h2>
-                <img alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" className="shrink-0 transition duration-300 group-open:-rotate-180" style="color:transparent" src="/icons/arrow-down.svg">
-              </summary>
-              <p className="pt-3 leading-relaxed text-neutral-400">Orders are usually shipped within 1-2 business days after placing the order.</p>
-            </details>
-          </div>
-          <div className="rounded-[0.6rem]" style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)">
-            <details className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
-              <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
-                <h2 className="font-medium">How does it Function?</h2>
-                <img alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" className="shrink-0 transition duration-300 group-open:-rotate-180" style="color:transparent" src="/icons/arrow-down.svg">
-              </summary>
-              <p className="pt-3 leading-relaxed text-neutral-400">Orders are usually shipped within 1-2 business days after placing the order.</p>
-            </details>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div className="absolute -left-[350px] -top-[100px]">
-      <div className="w-[800px] h-[800px] relative z-0">
-        <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/shadow.svg">
-      </div>
-    </div>
-  </section>
-  <div className="relative">
-    <div className="px-4 pt-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
-      <div className="grid row-gap-10 mb-8 lg:grid-cols-6">
-        <div className="grid grid-cols-2 gap-8 lg:col-span-4 md:grid-cols-4">
-          <div className="flex flex-col gap-4">
-            <div className="relative h-10 aspect-square mb-3">
-              <img alt="Logo" loading="lazy" decoding="async" data-nimg="fill" className="object-contain object-left" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/logos/cip-pro-small.png">
-            </div>
-            <a className="text-neutral-300 text-sm flex items-center gap-2" href="/">
-              <img alt="Mail Icon" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" style="color:transparent" src="/icons/mail.svg">help@frybix.com </a>
-            <a className="text-neutral-300 text-sm flex items-center gap-2" href="/">
-              <img alt="Phone Icon" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" style="color:transparent" src="/icons/phone.svg">+1 234 456 678 89 </a>
-          </div>
-          <div>
-            <p className="font-medium text-xl mb-3 tracking-wide capitalize">Links</p>
-            <ul className="mt-2 space-y-2">
-              <li>
-                <a href="/" className="text-neutral-300 text-sm capitalize">Home</a>
-              </li>
-              <li>
-                <a href="/" className="text-neutral-300 text-sm capitalize">About Us</a>
-              </li>
-              <li>
-                <a href="/" className="text-neutral-300 text-sm capitalize">Bookings</a>
-              </li>
-              <li>
-                <a href="/" className="text-neutral-300 text-sm capitalize">Blog</a>
-              </li>
-            </ul>
-          </div>
-          <div>
-            <p className="font-medium text-xl mb-3 tracking-wide capitalize">legal</p>
-            <ul className="mt-2 space-y-2">
-              <li>
-                <a href="/" className="text-neutral-300 text-sm capitalize">terms of use</a>
-              </li>
-              <li>
-                <a href="/" className="text-neutral-300 text-sm capitalize">privacy policy</a>
-              </li>
-              <li>
-                <a href="/" className="text-neutral-300 text-sm capitalize">cookie policy</a>
-              </li>
-            </ul>
-          </div>
-          <div>
-            <p className="font-medium text-xl mb-3 tracking-wide capitalize">product</p>
-            <ul className="mt-2 space-y-2">
-              <li>
-                <a href="/" className="text-neutral-300 text-sm capitalize">take tour</a>
-              </li>
-              <li>
-                <a href="/" className="text-neutral-300 text-sm capitalize">live chat</a>
-              </li>
-              <li>
-                <a href="/" className="text-neutral-300 text-sm capitalize">reveiws</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div className="md:max-w-md lg:col-span-2 row-start-1 lg:row-start-auto mb-10 lg:mb-0">
-          <span className="font-medium text-xl tracking-wid">Newsletter</span>
-          <p className="text-neutral-400 text-sm mt-3">Stay Up To Date</p>
-          <form className="flex mt-4 bg-neutral-800 p-2 rounded-lg max-w-[90%] lg:w-[75%]">
-            <input placeholder="Your Email" required="" type="text" className="text-sm flex-grow w-full h-12 px-4 transition duration-200 bg-transparent rounded shadow-sm appearance-none md:mr-2 md:mb-0 focus:border-deep-purple-accent-400 focus:outline-none focus:shadow-outline">
-            <button className="inline-block primary-button">Subscribe</button>
-          </form>
-        </div>
-      </div>
-      <hr className="border-none h-[1px] bg-gradient-to-r from-[#16161600] via-[#69696988] to-[#16161600]">
-      <div className="flex justify-center pt-5 pb-10">
-        <p className="text-sm">Copyright 2022 uifry.com All Rights Reserved</p>
-      </div>
-    </div>
-    <div className="absolute -right-[300px] -bottom-[150px] -z-10">
-      <div className="w-[800px] h-[800px] relative ">
-        <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/shadow.svg">
-      </div>
-    </div>
-  </div>
-</div>
- */}
+  </section> */}
+
+//   <section className="min-h-[768px] flex items-center relative pt-10" id="section_liquidity">
+//     <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
+//       <div className="grid grid-cols-1 lg:grid-cols-2 items-center gap-16 lg:gap-8 w-full">
+//         <div className="reveal-wrapper ">
+//           <div style="opacity:0;transform:translateX(-100%) scale(0.75) translateZ(0)">
+//             <p className="text-sm text-[#C792FF] mb-4">Discounted Crpyto</p>
+//             <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5">CIP Pro Auto Liquidity Generation</h2>
+//             <p className="mt-1 text-sm text-neutral-400">Crypto Index Pool Pro has implanted a dynamic concept of Generating liquidity, unique Idea and research-based concept with a great autonomous working model will be associated with the running smart contract, These multiple supporting protocols will be running in the crypto space initializing the concept and earn fees by interacting with the community. Protocol like "DISCOUNT CRYPTO will attracts the community by its unique working model, this concept will be only available for the CIP Pro community, community must fulfil the requirement of the CIP Pro protocol instructions to enjoy the benefit of Discounted crypto. The binding contemplation of Crypto Index Pool Pro ecosystem will lead to the stability for the better future of investors. <br>
+//               <br>As crypto industry has always been building the new innovations and bringing updations in the running concepts, there is always a need of an endless requirements for the multiple tools in the decentralized industry. It has always been a challenge for the centralization governance to integrate with decentralized governance, the decentralized nature and building the products anonymously is the beauty of this Industry, as we have seen the rise of decentralized finance in the previous years, this has taken blockchain innovations to another era. <br>
+//               <br>Things like Decentralized Email DNS service &amp; IFPS is supporting web3 which has changed the traditional system of web.
+//             </p>
+//           </div>
+//           <div className="absolute w-full left-0 top-1/2"></div>
+//           <div className="absolute inset-0 w-full h-full"></div>
+//         </div>
+//         <div className="row-start-1 lg:row-start-auto ">
+//           <div className="reveal-wrapper ">
+//             <div style="opacity:0;transform:translateX(100%) scale(0.75) translateZ(0)">
+//               <div className="relative aspect-square mx-auto">
+//                 <img alt="About Arbitrum Figure" loading="lazy" decoding="async" data-nimg="fill" className="p-0.5 rounded-3xl" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/auto-liquidity-1.png">
+//               </div>
+//             </div>
+//             <div className="absolute w-full left-0 top-1/2"></div>
+//             <div className="absolute inset-0 w-full h-full"></div>
+//           </div>
+//         </div>
+//       </div>
+//     </div>
+//     <div className="absolute left-0 top-[25%]">
+//       <div className="w-[400px] h-[800px] relative z-0 max-w-[90vw]">
+//         <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/auto-liquidity-object-1.png">
+//       </div>
+//     </div>
+//     <div className="absolute bottom-0 right-[10%] -translate-x-1/2">
+//       <img alt="Star Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" style="color:transparent" src="/icons/star.svg">
+//     </div>
+//   </section>
+//   <section className="min-h-[768px] flex items-center relative pb-10">
+//     <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
+//       <div className="grid grid-cols-1 lg:grid-cols-2 items-center gap-16 lg:gap-8 w-full">
+//         <div className="row-start-1 lg:row-start-auto ">
+//           <div className="reveal-wrapper ">
+//             <div style="opacity:0;transform:translateX(-100%) scale(0.75) translateZ(0)">
+//               <div className="relative aspect-square mx-auto">
+//                 <img alt="About Arbitrum Figure" loading="lazy" decoding="async" data-nimg="fill" className="p-0.5 rounded-3xl" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/auto-liquidity-2.png">
+//               </div>
+//             </div>
+//             <div className="absolute w-full left-0 top-1/2"></div>
+//             <div className="absolute inset-0 w-full h-full"></div>
+//           </div>
+//         </div>
+//         <div className="reveal-wrapper ">
+//           <div style="opacity:0;transform:translateX(100%) scale(0.75) translateZ(0)">
+//             <p className="text-sm text-[#3EFF8B] mb-4">Multichain bridge</p>
+//             <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5">CIP Pro Auto Liquidity <br> Generation </h2>
+//             <p className="mt-1 text-sm text-neutral-400">After "Discounted Crypto" we are launching the multichain bridge for the community which will a great tool to transfer assets from multichain to one chain, A multichain bridge is a technology that allows users to transfer assets or data between different blockchains. There are different types of multichain bridges, such as cross-chain bridges and cross-chain routers. Cross-chain bridges lock the original asset in a secure address and mint a wrapped asset on the destination chain. <br>
+//               <br>Cross-chain routers allow users to swap between any two chains directly without wrapping. This product will be also generating fees by the transactions volume which will support the CIP Pro liquidity ponderation to the protocol
+//             </p>
+//           </div>
+//           <div className="absolute w-full left-0 top-1/2"></div>
+//           <div className="absolute inset-0 w-full h-full"></div>
+//         </div>
+//       </div>
+//     </div>
+//     <div className="absolute right-0 top-[30%]">
+//       <div className="w-[400px] h-[800px] relative z-0 max-w-[90vw] translate-x-1/2">
+//         <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/auto-liquidity-object-2.png">
+//       </div>
+//     </div>
+//   </section>
+//   <section className="min-h-[414px] md:min-h-[768px] relative">
+//     <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
+//       <div className="flex items-center justify-center flex-col text-center py-10 pt-24 relative z-10">
+//         <p className="text-sm md:w-[46ch] mb-3">On Global Pool ROI</p>
+//         <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-center">Universal <span className="text-[#CD3AFF]">Pools</span> Income </h2>
+//         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-5 mt-10 lg:mt-20" style="opacity:0;transform:scale(0.75) translateZ(0)">
+//           <div>
+//             <div className="rounded-[0.6rem] text-start" style="perspective:300px;background:#FFFFFF88;transform:scale(.85) translateY(5%);transform-origin:top right">
+//               <div className="packageCard h-full text-sm sm:text-base transition duration-300 bg-[#24202d] p-5 md:p-8 rounded-[0.5rem]">
+//                 <img alt="Diamond Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" style="color:transparent" src="/icons/diamond.svg">
+//                 <h3 className="text-[1.75em] font-semibold py-5">Kohinoor</h3>
+//                 <div style="background:linear-gradient(90deg, #12B879, #037B42)" className="mt-3 p-5 rounded-md">
+//                   <h4 className="text-[1em] font-semibold mb-1 uppercase">Condition</h4>
+//                   <p className="text-[.75em] leading-5">User must be MARS &amp; 3 VENUS referrals in 3 LEGS</p>
+//                 </div>
+//                 <div className="pt-5 pb-3 uppercase font-medium text-[1em]">Reward</div>
+//                 <div style="color:#3DE0A2" className="text-[2.5em] mt-1 font-semibold">6
+//                   <!-- -->%
+//                 </div>
+//               </div>
+//             </div>
+//           </div>
+//           <div>
+//             <div className="rounded-[0.6rem] text-start" style="perspective:300px;background:#FFFFFF88;transform-origin:top right">
+//               <div className="packageCard h-full text-sm sm:text-base transition duration-300 bg-[#24202d] p-5 md:p-8 rounded-[0.5rem]">
+//                 <img alt="Diamond Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" style="color:transparent" src="/icons/cup.svg">
+//                 <h3 className="text-[1.75em] font-semibold py-5">Gold Plan</h3>
+//                 <div style="background:linear-gradient(90deg, #FEB54A99, #FF3A6899)" className="mt-3 p-5 rounded-md">
+//                   <h4 className="text-[1em] font-semibold mb-1 uppercase">Condition</h4>
+//                   <p className="text-[.75em] leading-5">User must be MARS &amp; 3 VENUS referrals in 3 LEGS</p>
+//                 </div>
+//                 <div className="pt-5 pb-3 uppercase font-medium text-[1em]">Reward</div>
+//                 <div style="color:#FD7F08" className="text-[2.5em] mt-1 font-semibold">10
+//                   <!-- -->%
+//                 </div>
+//               </div>
+//             </div>
+//           </div>
+//           <div>
+//             <div className="rounded-[0.6rem] text-start" style="perspective:300px;background:#FFFFFF88;transform-origin:top right">
+//               <div className="packageCard h-full text-sm sm:text-base transition duration-300 bg-[#24202d] p-5 md:p-8 rounded-[0.5rem]">
+//                 <img alt="Diamond Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" style="color:transparent" src="/icons/diamond.svg">
+//                 <h3 className="text-[1.75em] font-semibold py-5">Diamond</h3>
+//                 <div style="background:linear-gradient(90deg, #DB70FF99, #76009F99)" className="mt-3 p-5 rounded-md">
+//                   <h4 className="text-[1em] font-semibold mb-1 uppercase">Condition</h4>
+//                   <p className="text-[.75em] leading-5">User must be MARS &amp; 3 VENUS referrals in 3 LEGS</p>
+//                 </div>
+//                 <div className="pt-5 pb-3 uppercase font-medium text-[1em]">Reward</div>
+//                 <div style="color:#CD3AFF" className="text-[2.5em] mt-1 font-semibold">8
+//                   <!-- -->%
+//                 </div>
+//               </div>
+//             </div>
+//           </div>
+//           <div>
+//             <div className="rounded-[0.6rem] text-start" style="perspective:300px;background:#FFFFFF88;transform:scale(.85) translateY(5%);transform-origin:top left">
+//               <div className="packageCard h-full text-sm sm:text-base transition duration-300 bg-[#24202d] p-5 md:p-8 rounded-[0.5rem]">
+//                 <img alt="Diamond Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" style="color:transparent" src="/icons/silver-star.svg">
+//                 <h3 className="text-[1.75em] font-semibold py-5">Platinum</h3>
+//                 <div style="background:linear-gradient(90deg, #54C0FF99, #12619699)" className="mt-3 p-5 rounded-md">
+//                   <h4 className="text-[1em] font-semibold mb-1 uppercase">Condition</h4>
+//                   <p className="text-[.75em] leading-5">User must be MARS &amp; 3 VENUS referrals in 3 LEGS</p>
+//                 </div>
+//                 <div className="pt-5 pb-3 uppercase font-medium text-[1em]">Reward</div>
+//                 <div style="color:#00A0FE" className="text-[2.5em] mt-1 font-semibold">8
+//                   <!-- -->%
+//                 </div>
+//               </div>
+//             </div>
+//           </div>
+//         </div>
+//       </div>
+//     </div>
+//     <div className="absolute -left-[500px] -top-[100px]">
+//       <div className="w-[800px] h-[800px] relative z-0">
+//         <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/shadow2.svg">
+//       </div>
+//     </div>
+//   </section>
+//   <section className="py-20 relative" id="section_faqs">
+//     <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
+//       <div className="text-center flex flex-col items-center justify-center relative z-10">
+//         <h2 className="text-2xl sm:text-3xl md:text-5xl font-bold mb-5 inline-block relative">Frequently Asked Questions <div className="absolute -top-1/4 right-0 translate-x-[200%] hidden md:block">
+//             <img alt="Star Icon" loading="lazy" width="35" height="35" decoding="async" data-nimg="1" style="color:transparent" src="/icons/thin-star.svg">
+//           </div>
+//         </h2>
+//         <p className="text-sm md:text-lg font-thin text-neutral-400 md:w-[46ch]">Dalma is the only saas business platform that lets you run your business on one platform, seamlessly across all digital channels.</p>
+//         <div className="space-y-4 text-start w-full lg:w-[65%] my-20">
+//           <div className="rounded-[0.6rem]" style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)">
+//             <details className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
+//               <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
+//                 <h2 className="font-medium">What is DAPP?</h2>
+//                 <img alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" className="shrink-0 transition duration-300 group-open:-rotate-180" style="color:transparent" src="/icons/arrow-down.svg">
+//               </summary>
+//               <p className="pt-3 leading-relaxed text-neutral-400">Orders are usually shipped within 1-2 business days after placing the order.</p>
+//             </details>
+//           </div>
+//           <div className="rounded-[0.6rem]" style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)">
+//             <details className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
+//               <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
+//                 <h2 className="font-medium">How do they Work?</h2>
+//                 <img alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" className="shrink-0 transition duration-300 group-open:-rotate-180" style="color:transparent" src="/icons/arrow-down.svg">
+//               </summary>
+//               <p className="pt-3 leading-relaxed text-neutral-400">Orders are usually shipped within 1-2 business days after placing the order.</p>
+//             </details>
+//           </div>
+//           <div className="rounded-[0.6rem]" style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)">
+//             <details className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
+//               <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
+//                 <h2 className="font-medium">What are the benefits of DAPP?</h2>
+//                 <img alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" className="shrink-0 transition duration-300 group-open:-rotate-180" style="color:transparent" src="/icons/arrow-down.svg">
+//               </summary>
+//               <p className="pt-3 leading-relaxed text-neutral-400">Orders are usually shipped within 1-2 business days after placing the order.</p>
+//             </details>
+//           </div>
+//           <div className="rounded-[0.6rem]" style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)">
+//             <details className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
+//               <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
+//                 <h2 className="font-medium">What are the Features of DAPP?</h2>
+//                 <img alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" className="shrink-0 transition duration-300 group-open:-rotate-180" style="color:transparent" src="/icons/arrow-down.svg">
+//               </summary>
+//               <p className="pt-3 leading-relaxed text-neutral-400">Orders are usually shipped within 1-2 business days after placing the order.</p>
+//             </details>
+//           </div>
+//           <div className="rounded-[0.6rem]" style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)">
+//             <details className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
+//               <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
+//                 <h2 className="font-medium">How does it Function?</h2>
+//                 <img alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" className="shrink-0 transition duration-300 group-open:-rotate-180" style="color:transparent" src="/icons/arrow-down.svg">
+//               </summary>
+//               <p className="pt-3 leading-relaxed text-neutral-400">Orders are usually shipped within 1-2 business days after placing the order.</p>
+//             </details>
+//           </div>
+//         </div>
+//       </div>
+//     </div>
+//     <div className="absolute -left-[350px] -top-[100px]">
+//       <div className="w-[800px] h-[800px] relative z-0">
+//         <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/shadow.svg">
+//       </div>
+//     </div>
+//   </section>
+//   <div className="relative">
+//     <div className="px-4 pt-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
+//       <div className="grid row-gap-10 mb-8 lg:grid-cols-6">
+//         <div className="grid grid-cols-2 gap-8 lg:col-span-4 md:grid-cols-4">
+//           <div className="flex flex-col gap-4">
+//             <div className="relative h-10 aspect-square mb-3">
+//               <img alt="Logo" loading="lazy" decoding="async" data-nimg="fill" className="object-contain object-left" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/logos/cip-pro-small.png">
+//             </div>
+//             <a className="text-neutral-300 text-sm flex items-center gap-2" href="/">
+//               <img alt="Mail Icon" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" style="color:transparent" src="/icons/mail.svg">help@frybix.com </a>
+//             <a className="text-neutral-300 text-sm flex items-center gap-2" href="/">
+//               <img alt="Phone Icon" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" style="color:transparent" src="/icons/phone.svg">+1 234 456 678 89 </a>
+//           </div>
+//           <div>
+//             <p className="font-medium text-xl mb-3 tracking-wide capitalize">Links</p>
+//             <ul className="mt-2 space-y-2">
+//               <li>
+//                 <a href="/" className="text-neutral-300 text-sm capitalize">Home</a>
+//               </li>
+//               <li>
+//                 <a href="/" className="text-neutral-300 text-sm capitalize">About Us</a>
+//               </li>
+//               <li>
+//                 <a href="/" className="text-neutral-300 text-sm capitalize">Bookings</a>
+//               </li>
+//               <li>
+//                 <a href="/" className="text-neutral-300 text-sm capitalize">Blog</a>
+//               </li>
+//             </ul>
+//           </div>
+//           <div>
+//             <p className="font-medium text-xl mb-3 tracking-wide capitalize">legal</p>
+//             <ul className="mt-2 space-y-2">
+//               <li>
+//                 <a href="/" className="text-neutral-300 text-sm capitalize">terms of use</a>
+//               </li>
+//               <li>
+//                 <a href="/" className="text-neutral-300 text-sm capitalize">privacy policy</a>
+//               </li>
+//               <li>
+//                 <a href="/" className="text-neutral-300 text-sm capitalize">cookie policy</a>
+//               </li>
+//             </ul>
+//           </div>
+//           <div>
+//             <p className="font-medium text-xl mb-3 tracking-wide capitalize">product</p>
+//             <ul className="mt-2 space-y-2">
+//               <li>
+//                 <a href="/" className="text-neutral-300 text-sm capitalize">take tour</a>
+//               </li>
+//               <li>
+//                 <a href="/" className="text-neutral-300 text-sm capitalize">live chat</a>
+//               </li>
+//               <li>
+//                 <a href="/" className="text-neutral-300 text-sm capitalize">reveiws</a>
+//               </li>
+//             </ul>
+//           </div>
+//         </div>
+//         <div className="md:max-w-md lg:col-span-2 row-start-1 lg:row-start-auto mb-10 lg:mb-0">
+//           <span className="font-medium text-xl tracking-wid">Newsletter</span>
+//           <p className="text-neutral-400 text-sm mt-3">Stay Up To Date</p>
+//           <form className="flex mt-4 bg-neutral-800 p-2 rounded-lg max-w-[90%] lg:w-[75%]">
+//             <input placeholder="Your Email" required="" type="text" className="text-sm flex-grow w-full h-12 px-4 transition duration-200 bg-transparent rounded shadow-sm appearance-none md:mr-2 md:mb-0 focus:border-deep-purple-accent-400 focus:outline-none focus:shadow-outline">
+//             <button className="inline-block primary-button">Subscribe</button>
+//           </form>
+//         </div>
+//       </div>
+//       <hr className="border-none h-[1px] bg-gradient-to-r from-[#16161600] via-[#69696988] to-[#16161600]">
+//       <div className="flex justify-center pt-5 pb-10">
+//         <p className="text-sm">Copyright 2022 uifry.com All Rights Reserved</p>
+//       </div>
+//     </div>
+//     <div className="absolute -right-[300px] -bottom-[150px] -z-10">
+//       <div className="w-[800px] h-[800px] relative ">
+//         <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" src="/images/shadow.svg">
+//       </div>
+//     </div>
+//   </div>
+// </div>
+

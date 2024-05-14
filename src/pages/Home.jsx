@@ -23,6 +23,11 @@ import shadow2 from '../assets/shadow2.svg'
 
 import tokenomics from '../assets/tokenomics.png'
 import tokenomicsObject from '../assets/tokenomics-object.png'
+import seven from '../assets/seven.png'
+import autoLiquidityObject1 from '../assets/auto-liquidity-object-1.png'
+import autoLiquidity1 from '../assets/auto-liquidity-1.png'
+
+
 
 
 
@@ -715,6 +720,109 @@ export default function Home(){
                             src={Shadow}
                         />
                     </div>
+                    </div>
+                </section>
+
+                {/* section 3 F  */}
+
+                <section className="min-h-[414px] md:min-h-[768px] relative">
+                    <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
+                    <div className="flex items-center justify-center flex-col text-center py-10 pt-24 relative z-10">
+                        <p className="text-sm text-[#EA9444] mb-4">Discounted Crpyto</p>
+                        <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5 text-center">Rule of Seven</h2>
+                        <p className="mt-1 text-sm text-neutral-400 max-w-[33ch]">
+                            Compounding Profit and Capital followed by Seven Rules of Buying Assets to support Liquidity.
+                        </p>
+                        <div className="text-start my-20 grid grid-cols-1 lg:grid-cols-2 items-center gap-16 lg:gap-8">
+                            <div 
+                                // style="perspective:300px" 
+                                className="row-start-1 lg:row-start-auto "
+                                >
+                                <div 
+                                    className="relative aspect-square  rounded-3xl max-w-[35rem] lg:max-w-none mx-auto" 
+                                    // style="transform: rotateY(-25deg) translateZ(0px);"
+                                    >
+                                <img alt="Seven Shape" loading="lazy" decoding="async" data-nimg="fill" 
+                                    className='absolute h-full w-full left-0 top-0 right-0 bottom-0 object-contain text-transparent'
+                                    src={seven}
+                                    />
+                                </div>
+                            </div>
+                        <div className="text-start rounded-lg bg-[#6A6A6A1A] p-4 sm:p-6 lg:p-12 lg:pb-20 shadow-2xl">
+                            <p className="text-sm text-neutral-300 leading-6">
+                                Have you heard of the rule of Seven strategy in trading? It&amp;apo;s a simple but effective strategy that can turn $10,000 into $1.28 million. You you. Here&amp;apo;s how it works. Find seven coins one at a time to invest in. For example, if you invest $10,000 in polka dot and the price doubles, your amount will be $20,000. Then find another coin and put $20,000 in that coin to get double. Continue this process for seven coins without taking your principal and profit thousands of coins double in crypto during every bull run. All you need to do is find seven coins in year to turn your $10,000 into $1.28 million. Crypto Index Pool Pro is using this strategy to increase liquidity in pools. You can also follow this strategy with your portfolio to&nbsp;make&nbsp;big&nbsp;money.
+                            </p>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div className="absolute left-[50%] top-[50%] -translate-x-1/3 -translate-y-1/4">
+                    <div className="w-[800px] h-[800px] relative z-0">
+                        <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill"
+                        className='absolute h-full w-full inset-0 object-contain text-transparent' 
+                        src={Shadow}
+                        />
+                    </div>
+                    </div>
+                    <div className="absolute w-full left-0 top-1/2"></div>
+                </section>
+
+                 {/* liquidity section  */}
+
+                 <section 
+                    className="min-h-[768px] flex items-center relative pt-10" id="section_liquidity">
+                    <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
+                    <div className="grid grid-cols-1 lg:grid-cols-2 items-center gap-16 lg:gap-8 w-full">
+                        <div className="reveal-wrapper ">
+                        <div 
+                            // style="opacity:0;transform:translateX(-100%) scale(0.75) translateZ(0)"
+                            >
+                            <p className="text-sm text-[#C792FF] mb-4">Discounted Crpyto</p>
+                            <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5">CIP Pro Auto Liquidity Generation</h2>
+                            <p className="mt-1 text-sm text-neutral-400">
+                                Crypto Index Pool Pro has implanted a dynamic concept of Generating liquidity, unique Idea and research-based concept with a great autonomous working model will be associated with the running smart contract, These multiple supporting protocols will be running in the crypto space initializing the concept and earn fees by interacting with the community. Protocol like &quot;DISCOUNT CRYPTO will attracts the community by its unique working model, this concept will be only available for the CIP Pro community, community must fulfil the requirement of the CIP Pro protocol instructions to enjoy the benefit of Discounted crypto. The binding contemplation of Crypto Index Pool Pro ecosystem will lead to the stability for the better future of investors. 
+                                <br/>
+                            <br/>As crypto industry has always been building the new innovations and bringing updations in the running concepts, there is always a need of an endless requirements for the multiple tools in the decentralized industry. It has always been a challenge for the centralization governance to integrate with decentralized governance, the decentralized nature and building the products anonymously is the beauty of this Industry, as we have seen the rise of decentralized finance in the previous years, this has taken blockchain innovations to another era. 
+                            <br/>
+                            <br/>Things like Decentralized Email DNS service &amp; IFPS is supporting web3 which has changed the traditional system of web.
+                            </p>
+                        </div>
+                        <div className="absolute w-full left-0 top-1/2"></div>
+                        <div className="absolute inset-0 w-full h-full"></div>
+                        </div>
+                        <div className="row-start-1 lg:row-start-auto ">
+                        <div className="reveal-wrapper ">
+                            <div 
+                                // style="opacity:0;transform:translateX(100%) scale(0.75) translateZ(0)"
+                                >
+                            <div className="relative aspect-square mx-auto">
+                                <img alt="About Arbitrum Figure" loading="lazy" decoding="async" data-nimg="fill" 
+                                    className="p-0.5 rounded-3xl absolute h-full w-full inset-0 object-contain text-transparent" 
+                                    src={autoLiquidity1}
+                                    />
+                            </div>
+                            </div>
+                            <div className="absolute w-full left-0 top-1/2"></div>
+                            <div className="absolute inset-0 w-full h-full"></div>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div className="absolute left-0 top-[25%]">
+                    <div className="w-[400px] h-[800px] relative z-0 max-w-[90vw]">
+                        <img 
+                            alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" 
+                            className='absolute h-full w-full left-0 top-0 right-0 bottom-0 object-contain text-transparent'
+                            src={autoLiquidityObject1}
+                        />
+                    </div>
+                    </div>
+                    <div className="absolute bottom-0 right-[10%] -translate-x-1/2">
+                    <img alt="Star Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" 
+                        className='text-transparent'
+                        // style="color:transparent" 
+                        src={star}
+                    />
                     </div>
                 </section>
 
