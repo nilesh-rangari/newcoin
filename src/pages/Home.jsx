@@ -32,14 +32,8 @@ import autoLiquidityObject2 from '../assets/auto-liquidity-object-2.png'
 import cup from '../assets/cup.svg'
 import diamond from '../assets/diamond.svg'
 import silverStar from '../assets/silver-star.svg'
-
-
-
-
-
-
-
-
+import thinStar from '../assets/thin-star.svg'
+import arrowDown from '../assets/arrow-down.svg'
 
 
 
@@ -1040,6 +1034,132 @@ export default function Home(){
                             // style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" 
                             src={shadow2}
                             />
+                    </div>
+                    </div>
+                </section>
+
+                {/* FAQs section  */}
+
+                <section className="py-20 relative" id="section_faqs">
+                    <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
+                    <div className="text-center flex flex-col items-center justify-center relative z-10">
+                        <h2 className="text-2xl sm:text-3xl md:text-5xl font-bold mb-5 inline-block relative">
+                            Frequently Asked Questions 
+                            <div className="absolute -top-1/4 right-0 translate-x-[200%] hidden md:block">
+                            <img 
+                                alt="Star Icon" loading="lazy" width="35" height="35" decoding="async" data-nimg="1" 
+                                // style="color:transparent" 
+                                className='text-transparent'
+                                src={thinStar}
+                            />
+                        </div>
+                        </h2>
+                        <p className="text-sm md:text-lg font-thin text-neutral-400 md:w-[46ch]">
+                            Dalma is the only saas business platform that lets you run your business on one platform, seamlessly across all digital channels.
+                            </p>
+                        <div className="space-y-4 text-start w-full lg:w-[65%] my-20">
+                        <div 
+                            className="rounded-[0.6rem] bg-[#FFFFFF88]" 
+                            // style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)"
+                            >
+                            <details 
+                                className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
+                            <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
+                                <h2 className="font-medium">What is DAPP?</h2>
+                                <img 
+                                    alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" 
+                                    className="shrink-0 transition duration-300 group-open:-rotate-180 text-transparent" 
+                                    // style="color:transparent"
+                                    src={arrowDown}
+                                />
+                            </summary>
+                            <p className="pt-3 leading-relaxed text-neutral-400">
+                                Orders are usually shipped within 1-2 business days after placing the order.
+                            </p>
+                            </details>
+                        </div>
+                        <div 
+                            className="rounded-[0.6rem] bg-[##FFFFFF88]" 
+                            // style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)"
+                            >
+                            <details className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
+                            <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
+                                <h2 className="font-medium">How do they Work?</h2>
+                                <img 
+                                    alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" 
+                                    className="shrink-0 transition duration-300 group-open:-rotate-180 text-transparent" 
+                                    // style="color:transparent" 
+                                    src={arrowDown}
+                                />
+                            </summary>
+                            <p className="pt-3 leading-relaxed text-neutral-400">
+                                Orders are usually shipped within 1-2 business days after placing the order.
+                                </p>
+                            </details>
+                        </div>
+                        <div 
+                            className="rounded-[0.6rem] bg-[#FFFFFF88]" 
+                            // style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)"
+                            >
+                            <details className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
+                            <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
+                                <h2 className="font-medium">What are the benefits of DAPP?</h2>
+                                <img 
+                                    alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" 
+                                    className="shrink-0 transition duration-300 group-open:-rotate-180 text-transparent"
+                                    src={arrowDown}
+                                />
+                            </summary>
+                            <p className="pt-3 leading-relaxed text-neutral-400">
+                                Orders are usually shipped within 1-2 business days after placing the order.
+                                </p>
+                            </details>
+                        </div>
+                        <div 
+                            className="rounded-[0.6rem] bg-[#FFFFFF88]" 
+                            // style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)"
+                            >
+                            <details 
+                                className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
+                            <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
+                                <h2 className="font-medium">What are the Features of DAPP?</h2>
+                                <img 
+                                    alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" 
+                                    className="shrink-0 transition duration-300 group-open:-rotate-180 text-transparent" 
+                                    src={arrowDown}
+                                />
+                            </summary>
+                            <p className="pt-3 leading-relaxed text-neutral-400">
+                                Orders are usually shipped within 1-2 business days after placing the order.</p>
+                            </details>
+                        </div>
+                        <div 
+                            className="rounded-[0.6rem] bg-[#FFFFFF88]" 
+                            // style="perspective:300px;background:#FFFFFF88;transform:translateX(150%) translateZ(0)"
+                            >
+                            <details className="group text-sm sm:text-base [&amp;_summary::-webkit-details-marker]:hidden transition duration-300 bg-[#24202d] open:bg-[#2d2b37] p-5 md:p-8 rounded-[0.5rem]">
+                            <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-[0.5rem]">
+                                <h2 className="font-medium">How does it Function?</h2>
+                                <img 
+                                    alt="Arrow Down Icon" loading="lazy" width="25" height="25" decoding="async" data-nimg="1" 
+                                    className="shrink-0 transition duration-300 group-open:-rotate-180 text-transparent" 
+                                    src={arrowDown}
+                                />
+                            </summary>
+                            <p className="pt-3 leading-relaxed text-neutral-400">
+                                Orders are usually shipped within 1-2 business days after placing the order.</p>
+                            </details>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div className="absolute -left-[350px] -top-[100px]">
+                    <div className="w-[800px] h-[800px] relative z-0">
+                        <img alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" 
+                        className='absolute h-full w-full inset-0 object-contain text-transparent'
+                        // style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" 
+                        src={Shadow}
+                        />
                     </div>
                     </div>
                 </section>
