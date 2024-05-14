@@ -26,6 +26,17 @@ import tokenomicsObject from '../assets/tokenomics-object.png'
 import seven from '../assets/seven.png'
 import autoLiquidityObject1 from '../assets/auto-liquidity-object-1.png'
 import autoLiquidity1 from '../assets/auto-liquidity-1.png'
+import autoLiquidity2 from '../assets/auto-liquidity-2.png'
+
+import autoLiquidityObject2 from '../assets/auto-liquidity-object-2.png'
+import cup from '../assets/cup.svg'
+import diamond from '../assets/diamond.svg'
+import silverStar from '../assets/silver-star.svg'
+
+
+
+
+
 
 
 
@@ -823,6 +834,213 @@ export default function Home(){
                         // style="color:transparent" 
                         src={star}
                     />
+                    </div>
+                </section>
+
+                {/* new section  */}
+
+                   <section className="min-h-[768px] flex items-center relative pb-10">
+                     <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
+                       <div className="grid grid-cols-1 lg:grid-cols-2 items-center gap-16 lg:gap-8 w-full">
+                         <div className="row-start-1 lg:row-start-auto ">
+                           <div className="reveal-wrapper ">
+                             <div 
+                                // style="opacity:0;transform:translateX(-100%) scale(0.75) translateZ(0)"
+                                >
+                               <div className="relative aspect-square mx-auto">
+                                 <img 
+                                    alt="About Arbitrum Figure" loading="lazy" decoding="async" data-nimg="fill" 
+                                    className="p-0.5 rounded-3xl absolute h-full w-full top-0 left-0 object-contain text-transparent" 
+                                    src={autoLiquidity2}
+                                    />
+                               </div>
+                             </div>
+                             <div className="absolute w-full left-0 top-1/2"></div>
+                             <div className="absolute inset-0 w-full h-full"></div>
+                           </div>
+                         </div>
+                         <div className="reveal-wrapper ">
+                           <div 
+                                // style="opacity:0;transform:translateX(100%) scale(0.75) translateZ(0)"
+                                >
+                             <p className="text-sm text-[#3EFF8B] mb-4">Multichain bridge</p>
+                             <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5">
+                                CIP Pro Auto Liquidity <br/> 
+                                Generation 
+                             </h2>
+                             <p className="mt-1 text-sm text-neutral-400">
+                                After &quot;Discounted Crypto&quot; we are launching the multichain bridge for the community which will a great tool to transfer assets from multichain to one chain, A multichain bridge is a technology that allows users to transfer assets or data between different blockchains. There are different types of multichain bridges, such as cross-chain bridges and cross-chain routers. Cross-chain bridges lock the original asset in a secure address and mint a wrapped asset on the destination chain. 
+                                <br/>
+                               <br/>Cross-chain routers allow users to swap between any two chains directly without wrapping. This product will be also generating fees by the transactions volume which will support the CIP Pro liquidity ponderation to the protocol
+                             </p>
+                           </div>
+                           <div className="absolute w-full left-0 top-1/2"></div>
+                           <div className="absolute inset-0 w-full h-full"></div>
+                         </div>
+                       </div>
+                     </div>
+                     <div className="absolute right-0 top-[30%]">
+                       <div className="w-[400px] h-[800px] relative z-0 max-w-[90vw] translate-x-1/2">
+                         <img 
+                            alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill" 
+                            className='absolute h-full w-full top-0 right-0 bottom-0 left-0 object-contain text-transparent'
+                            src={autoLiquidityObject2}
+                         />
+                       </div>
+                     </div>
+                   </section>
+
+                {/* newsection 2  */}
+
+                <section className="min-h-[414px] md:min-h-[768px] relative">
+                    <div className="w-full px-8 sm:px-12 md:px-16 max-w-7xl mx-auto">
+                    <div className="flex items-center justify-center flex-col text-center py-10 pt-24 relative z-10">
+                        <p className="text-sm md:w-[46ch] mb-3">On Global Pool ROI</p>
+                        <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-center">
+                            Universal 
+                            <span className="text-[#CD3AFF]">Pools</span> Income </h2>
+                        <div 
+                            className="grid md:grid-cols-2 lg:grid-cols-4 gap-5 mt-10 lg:mt-20" 
+                            // style="opacity:0;transform:scale(0.75) translateZ(0)"
+                        >
+                        <div>
+                            <div 
+                                className="rounded-[0.6rem] text-start bg-[#FFFFFF88]" 
+                                // style="perspective:300px;background:#FFFFFF88;transform:scale(.85) translateY(5%);transform-origin:top right"
+                                >
+                            <div className="packageCard h-full text-sm sm:text-base transition duration-300 bg-[#24202d] p-5 md:p-8 rounded-[0.5rem]">
+                                <img 
+                                    alt="Diamond Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" 
+                                    // style="color:transparent" 
+                                    className='text-transparent'
+                                    src={diamond}
+                                />
+                                <h3 className="text-[1.75em] font-semibold py-5">
+                                    Kohinoor
+                                </h3>
+                                <div 
+                                    // style="background:linear-gradient(90deg, #12B879, #037B42)" 
+                                    className="mt-3 p-5 rounded-md   bg-gradient-to-r from-green-500 to-green-900"
+                                    >
+                                <h4 className="text-[1em] font-semibold mb-1 uppercase">Condition</h4>
+                                <p className="text-[.75em] leading-5">User must be MARS &amp; 3 VENUS referrals in 3 LEGS</p>
+                                </div>
+                                <div className="pt-5 pb-3 uppercase font-medium text-[1em]">Reward</div>
+                                <div 
+                                    // style="color:#3DE0A2" 
+                                    className="text-[2.5em] mt-1 font-semibold text-[#3DE0A2]"
+                                    >
+                                        6%
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div 
+                                className="rounded-[0.6rem] text-start bg-[#FFFFFF88]" 
+                                // style="perspective:300px;background:#FFFFFF88;transform-origin:top right"
+                                >
+                            <div className="packageCard h-full text-sm sm:text-base transition duration-300 bg-[#24202d] p-5 md:p-8 rounded-[0.5rem]">
+                                <img 
+                                    alt="Diamond Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" 
+                                    className='text-transparent'
+                                    // style="color:transparent" 
+                                    src={cup}
+                                    />
+                                <h3 className="text-[1.75em] font-semibold py-5">Gold Plan</h3>
+                                <div 
+                                    // style="background:linear-gradient(90deg, #FEB54A99, #FF3A6899)" 
+                                    className="mt-3 p-5 rounded-md   bg-gradient-to-r from-yellow-300 via-red-600 to-transparent"
+                                    >
+                                <h4 className="text-[1em] font-semibold mb-1 uppercase">Condition</h4>
+                                <p className="text-[.75em] leading-5">User must be MARS &amp; 3 VENUS referrals in 3 LEGS</p>
+                                </div>
+                                <div className="pt-5 pb-3 uppercase font-medium text-[1em]">Reward</div>
+                                <div 
+                                    // style="color:#FD7F08" 
+                                    className="text-[2.5em] mt-1 font-semibold text-[#FD7F08]"
+                                    >
+                                        10%
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div 
+                                className="rounded-[0.6rem] text-start bg-[#FFFFFF88]" 
+                                // style="perspective:300px;background:#FFFFFF88;transform-origin:top right"
+                                >
+                            <div className="packageCard h-full text-sm sm:text-base transition duration-300 bg-[#24202d] p-5 md:p-8 rounded-[0.5rem]"
+                                >
+                                <img 
+                                    alt="Diamond Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" 
+                                    // style="color:transparent" 
+                                    className='text-transparent'
+                                    src={diamond}
+                                    />
+                                <h3 className="text-[1.75em] font-semibold py-5">Diamond</h3>
+                                <div 
+                                    // style="background:linear-gradient(90deg, #DB70FF99, #76009F99)" 
+                                    className="mt-3 p-5 rounded-md   bg-gradient-to-r from-purple-500 to-indigo-900"
+                                    >
+                                <h4 className="text-[1em] font-semibold mb-1 uppercase">Condition</h4>
+                                <p className="text-[.75em] leading-5">User must be MARS &amp; 3 VENUS referrals in 3 LEGS</p>
+                                </div>
+                                <div className="pt-5 pb-3 uppercase font-medium text-[1em]">Reward</div>
+                                <div 
+                                    // style="color:#CD3AFF" 
+                                    className="text-[2.5em] mt-1 font-semibold text-[#CD3AFF]"
+                                    >
+                                        8%
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div 
+                                className="rounded-[0.6rem] text-start bg-[FFFFFF88]" 
+                                // style="perspective:300px;background:#FFFFFF88;transform:scale(.85) translateY(5%);transform-origin:top left"
+                                >
+                            <div 
+                                className="packageCard h-full text-sm sm:text-base transition duration-300 bg-[#24202d] p-5 md:p-8 rounded-[0.5rem]"
+                                >
+                                <img
+                                    alt="Diamond Icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" 
+                                    // style="color:transparent" 
+                                    className='text-transparent'
+                                    src={silverStar}
+                                />
+                                <h3 className="text-[1.75em] font-semibold py-5">Platinum</h3>
+                                <div 
+                                    // style="background:linear-gradient(90deg, #54C0FF99, #12619699)" 
+                                    className="mt-3 p-5 rounded-md    bg-gradient-to-r from-blue-300 to-blue-900"
+                                    >
+                                <h4 className="text-[1em] font-semibold mb-1 uppercase">Condition</h4>
+                                <p className="text-[.75em] leading-5">User must be MARS &amp; 3 VENUS referrals in 3 LEGS</p>
+                                </div>
+                                <div className="pt-5 pb-3 uppercase font-medium text-[1em]">Reward</div>
+                                <div 
+                                    // style="color:#00A0FE" 
+                                    className="text-[2.5em] mt-1 font-semibold text-[#00A0FE]"
+                                    >8%
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div className="absolute -left-[500px] -top-[100px]">
+                    <div 
+                        className="w-[800px] h-[800px] relative z-0"
+                        >
+                        <img 
+                            alt="Shadow Effect" loading="lazy" decoding="async" data-nimg="fill"
+                            className='absolute h-full w-full left-0 top-0 right-0 bottom-0 object-contain text-transparent' 
+                            // style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent" 
+                            src={shadow2}
+                            />
+                    </div>
                     </div>
                 </section>
 
